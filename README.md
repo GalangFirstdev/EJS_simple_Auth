@@ -1,16 +1,16 @@
-# FIDO Alliance WebAuthn demo
+# G Tech WebAuthn demo
 
-Slides: https://slides.com/fidoalliance/jan-2018-fido-seminar-webauthn-tutorial#/
+
 
 ### Requirements
 
-- Firefox Nightly
+- Firefox , Chrome , Edge
 - Nodejs + NPM
 - Text editor
 
 ### Run
 
 - `git clone https://github.com/fido-alliance/webauthn-demo/`
-- `cd webauthn-demo`
+- `cd WebAuthSimple`
 - `npm install`
-- `node app`
+- `npm run start`
